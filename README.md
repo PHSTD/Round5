@@ -7,8 +7,8 @@
 
 
 * 시연 영상
-  <video controls src="https://github.com/PHSTD/Round5/blob/Develops/Play2.mp4"></video>
-========================================================================
+<video controls src="https://raw.githubusercontent.com/PHSTD/Round5/Develops/Play2.mp4"></video>
+  ========================================================================
 
 * 게임 컨셉
   1. 장르: 2D Action RougeLike ShootingGame
