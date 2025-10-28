@@ -7,7 +7,8 @@
 
 
 * 시연 영상
-<video controls src="https://raw.githubusercontent.com/PHSTD/Round5/Develops/Play2.mp4"></video>
+<video controls src="https://github.com/user-attachments/assets/10de6bc1-f789-40a1-9ee4-a51b31edf2df"></video>
+
   ========================================================================
 
 * 게임 컨셉
